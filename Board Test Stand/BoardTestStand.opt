@@ -1,0 +1,21 @@
+[DEF, %OBJROOT]
+PersistedBreakpointArray = Objs
+PersistedWatchpointArray = Objs
+
+[DEF, PersistedBreakpointArray]
+%NAME = ""
+
+[__Header__]
+ProductName = "TestStand"
+ProductVersion = 20.0.0.49158
+CompatibleProdVersion = 20.0.0.0
+Version = 941
+Type = "TEPersisted"
+Path = ""
+ProductVersionString = "2020 (20.0.0.49158)"
+Description = ""
+CharEncoding = ""
+
+[DEF, PersistedWatchpointArray]
+%NAME = ""
+
